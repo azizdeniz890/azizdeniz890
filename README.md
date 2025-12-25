@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Deniz</h1>
-<h3 align="center">Bringing AI Ideas to Life.</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=130&section=header&text=Bengüsu%20Çakmak&fontSize=38&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <strong>Artificial Intelligence Engineering Student</strong><br/>
+  LLMs • Agent Systems • RAG • Computer Vision • Applied Machine Learning
+</p>
+
+<p align="center">
+  <a href="https://github.com/bengsucakmak">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bengüsu-çakmak-460278279">LinkedIn</a> •
+  <a href="mailto:bengusucakmak8@gmail.com">Email</a>
+</p>
+
+---
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
