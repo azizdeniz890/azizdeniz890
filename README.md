@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Artificial Intelligence Engineering Student</strong><br/>
+  <strong>Artificial Intelligence Engineer</strong><br/>
   LLMs • Agent Systems • RAG • Computer Vision • Applied Machine Learning
 </p>
 
